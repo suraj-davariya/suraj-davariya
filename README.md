@@ -1,6 +1,12 @@
 <!--### Hi there 👋-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suraj-davariya/suraj-davariya/master/images/suraj_davariya__quote.gif" alt="'git pull a day keeps conflicts away..' Thanks for visiting suraj-davariya" title="'git pull a day keeps conflicts away..' Thanks for visiting suraj-davariya"/>
+</p>
 
-[<img src="https://raw.githubusercontent.com/suraj-davariya/suraj-davariya/master/images/suraj_davariya__quote.gif" alt="'git pull a day keeps conflicts away..' Thanks for visiting suraj-davariya" title="'git pull a day keeps conflicts away..' Thanks for visiting suraj-davariya"/>](https://github.com/suraj-davariya)
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=suraj-davariya.suraj-davariya" alt="suraj-davariya profile visitors"/>
+</p>
+
 
 <!--
 **suraj-davariya/suraj-davariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

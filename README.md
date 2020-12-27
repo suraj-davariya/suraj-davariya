@@ -1,7 +1,12 @@
 <!--### Hi there 👋-->
 
+## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎 ![hi there](https://usefulshortcuts.com/imgs/yahoo-smileys/103.gif) ![smile](https://usefulshortcuts.com/imgs/yahoo-smileys/4.gif)
 
-### 𝚆𝚎𝚋
+![hehe](https://forthebadge.com/images/badges/powered-by-electricity.svg) 
+![❤️](https://forthebadge.com/images/badges/built-with-love.svg)
+
+
+### 𝚆𝚎𝚋 :globe_with_meridians: 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=Angular&style=for-the-badge&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?logo=AngularJS&style=for-the-badge&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&style=for-the-badge&logoColor=white)
@@ -15,7 +20,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&style=for-the-badge&logoColor=white)
 
 
-### 𝙾𝚂 & 𝚃𝚘𝚘𝚕𝚜
+### 𝙾𝚂 & 𝚃𝚘𝚘𝚕𝚜 :computer:
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?logo=Windows&style=for-the-badge&logoColor=black)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
 ![Macintosh](https://img.shields.io/badge/-Macintosh-999999?logo=Apple&style=for-the-badge&logoColor=white)
@@ -25,6 +30,23 @@
 ![Subversion](https://img.shields.io/badge/-Subversion-809CC9?logo=Subversion&style=for-the-badge&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-vscode-007ACC?logo=Visual-studio-code&style=for-the-badge&logoColor=white)
 
+<details>
+  <summary>𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :books: :notebook:</summary>
+
+####
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=white)
+
+
+</details>
+
+<details>
+  <summary>𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚞𝚋𝚕𝚒𝚌 𝚂𝚝𝚊𝚝𝚜 :octocat:</summary>
+
+<h3 align="center">𝚜𝚞𝚛𝚊𝚓-𝚍𝚊𝚟𝚊𝚛𝚒𝚢𝚊'𝚜 𝚂𝚝𝚊𝚝𝚜 :octocat: </h3>
+<p align="center">
+  <img src="https://github-readme-stats.char-al.vercel.app/api?username=suraj-davariya&show_icons=true&count_private=true&theme=vision-friendly-dark">
+</p>
+</details>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/suraj-davariya/suraj-davariya/master/images/suraj_davariya__quote.gif" alt="'git pull a day keeps conflicts away..' Thanks for visiting suraj-davariya" title="'git pull a day keeps conflicts away..' Thanks for visiting suraj-davariya"/>

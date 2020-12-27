@@ -1,6 +1,9 @@
 <!--### Hi there 👋-->
 
-## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎 ![hi there](https://usefulshortcuts.com/imgs/yahoo-smileys/103.gif) ![smile](https://usefulshortcuts.com/imgs/yahoo-smileys/4.gif)
+## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎 ![hi there](https://usefulshortcuts.com/imgs/yahoo-smileys/103.gif)
+
+<img src="https://raw.githubusercontent.com/suraj-davariya/suraj-davariya/master/images/emergency_cheatsheet.gif" height="100" align="right" alt="in case of fire: 1. git commit; 2. git push; 3. git -tf out">
+<img src="https://usefulshortcuts.com/imgs/yahoo-smileys/4.gif" height="25" align="right">
 
 ![hehe](https://forthebadge.com/images/badges/powered-by-electricity.svg) 
 ![❤️](https://forthebadge.com/images/badges/built-with-love.svg)
@@ -19,6 +22,7 @@
 ![JSON](https://img.shields.io/badge/-JSON-000000?logo=JSON&style=for-the-badge&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&style=for-the-badge&logoColor=white)
 
+<img src="https://raw.githubusercontent.com/suraj-davariya/suraj-davariya/master/images/lockdown_life.gif" height="100" align="right" alt="life in pendamic">
 
 ### 𝙾𝚂 & 𝚃𝚘𝚘𝚕𝚜 :computer:
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?logo=Windows&style=for-the-badge&logoColor=black)

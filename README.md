@@ -1,6 +1,7 @@
 <!--### Hi there 👋-->
 
-## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎 ![hi there](https://usefulshortcuts.com/imgs/yahoo-smileys/103.gif)
+## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎 ![hi there](https://usefulshortcuts.com/imgs/yahoo-smileys/103.gif).. 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚂𝚞𝚛𝚊𝚓 𝙳𝚊𝚟𝚊𝚛𝚒𝚢𝚊 <img src="http://www.emoticonr.com/design/yahoo/not-worthy.gif" height="25px"/>
+
 
 <img src="https://raw.githubusercontent.com/suraj-davariya/suraj-davariya/master/images/emergency_cheatsheet.gif" height="100" align="right" alt="in case of fire: 1. git commit; 2. git push; 3. git -tf out">
 <img src="https://usefulshortcuts.com/imgs/yahoo-smileys/4.gif" height="25" align="right">

@@ -53,9 +53,15 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-davariya&theme=vision-friendly-dark&hide_border=true"/>
 
   </p>
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
+</details>
+
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<details>
+  <summary>⚡ 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 </details>
 
 <p align="center">

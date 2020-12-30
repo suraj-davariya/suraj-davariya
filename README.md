@@ -49,8 +49,8 @@
 
 <h3 align="center">𝚜𝚞𝚛𝚊𝚓-𝚍𝚊𝚟𝚊𝚛𝚒𝚢𝚊'𝚜 𝚂𝚝𝚊𝚝𝚜 :octocat: </h3>
 <p align="center">
-  <img src="https://github-readme-stats.char-al.vercel.app/api?username=suraj-davariya&show_icons=true&count_private=true&theme=vision-friendly-dark">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-davariya&theme=vision-friendly-dark"/>
+  <img src="https://github-readme-stats.char-al.vercel.app/api?username=suraj-davariya&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-davariya&theme=vision-friendly-dark&hide_border=true"/>
 </p>
 </details>
 

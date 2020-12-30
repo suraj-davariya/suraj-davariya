@@ -2,15 +2,14 @@
 
 ## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎 ![hi there](https://usefulshortcuts.com/imgs/yahoo-smileys/103.gif).. 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚂𝚞𝚛𝚊𝚓 𝙳𝚊𝚟𝚊𝚛𝚒𝚢𝚊 <img src="http://www.emoticonr.com/design/yahoo/not-worthy.gif" height="25px"/>
 
-
 <img src="https://raw.githubusercontent.com/suraj-davariya/suraj-davariya/master/images/emergency_cheatsheet.gif" height="100" align="right" alt="in case of fire: 1. git commit; 2. git push; 3. git -tf out">
 <img src="https://usefulshortcuts.com/imgs/yahoo-smileys/4.gif" height="25" align="right">
 
-![hehe](https://forthebadge.com/images/badges/powered-by-electricity.svg) 
+![hehe](https://forthebadge.com/images/badges/powered-by-electricity.svg)
 ![❤️](https://forthebadge.com/images/badges/built-with-love.svg)
 
+### 𝚆𝚎𝚋 :globe_with_meridians:
 
-### 𝚆𝚎𝚋 :globe_with_meridians: 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=Angular&style=for-the-badge&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?logo=AngularJS&style=for-the-badge&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&style=for-the-badge&logoColor=white)
@@ -26,6 +25,7 @@
 <img src="https://raw.githubusercontent.com/suraj-davariya/suraj-davariya/master/images/lockdown_life.gif" height="100" align="right" alt="life in pendamic">
 
 ### 𝙾𝚂 & 𝚃𝚘𝚘𝚕𝚜 :computer:
+
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?logo=Windows&style=for-the-badge&logoColor=black)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
 ![Macintosh](https://img.shields.io/badge/-Macintosh-999999?logo=Apple&style=for-the-badge&logoColor=white)
@@ -39,8 +39,8 @@
   <summary>𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :books: :notebook:</summary>
 
 ####
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=white)
 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=white)
 
 </details>
 
@@ -51,6 +51,9 @@
 <p align="center">
   <img src="https://github-readme-stats.char-al.vercel.app/api?username=suraj-davariya&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-davariya&theme=vision-friendly-dark&hide_border=true"/>
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+
 </p>
 </details>
 

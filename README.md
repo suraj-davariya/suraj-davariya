@@ -64,6 +64,14 @@
 <!--END_SECTION:activity-->
 </details>
 
+<details>
+  <summary>💭 𝚀𝚞𝚘𝚝𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚍𝚊𝚢</summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=default&layout=default"/>
+  </p>
+</details>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/suraj-davariya/suraj-davariya/master/images/suraj_davariya__quote.gif" alt="'git pull a day keeps conflicts away..' Thanks for visiting suraj-davariya" title="'git pull a day keeps conflicts away..' Thanks for visiting suraj-davariya"/>
 </p>

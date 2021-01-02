@@ -45,7 +45,7 @@
 </details>
 
 <details>
-  <summary>𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚞𝚋𝚕𝚒𝚌 𝚂𝚝𝚊𝚝𝚜 :octocat:</summary>
+  <summary>👾 𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚞𝚋𝚕𝚒𝚌 𝚂𝚝𝚊𝚝𝚜 :octocat:</summary>
 
   <h3 align="center">𝚜𝚞𝚛𝚊𝚓-𝚍𝚊𝚟𝚊𝚛𝚒𝚢𝚊'𝚜 𝚂𝚝𝚊𝚝𝚜 :octocat: </h3>
   <p align="center">

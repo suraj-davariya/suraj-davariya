@@ -62,11 +62,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/suraj-davariya/suraj-davariya/pull/6) in [suraj-davariya/suraj-davariya](https://github.com/suraj-davariya/suraj-davariya)
-2. 💪 Opened PR [#6](https://github.com/suraj-davariya/suraj-davariya/pull/6) in [suraj-davariya/suraj-davariya](https://github.com/suraj-davariya/suraj-davariya)
-3. 🎉 Merged PR [#5](https://github.com/suraj-davariya/suraj-davariya/pull/5) in [suraj-davariya/suraj-davariya](https://github.com/suraj-davariya/suraj-davariya)
-4. 💪 Opened PR [#5](https://github.com/suraj-davariya/suraj-davariya/pull/5) in [suraj-davariya/suraj-davariya](https://github.com/suraj-davariya/suraj-davariya)
-5. 🎉 Merged PR [#4](https://github.com/suraj-davariya/suraj-davariya/pull/4) in [suraj-davariya/suraj-davariya](https://github.com/suraj-davariya/suraj-davariya)
+1. 🎉 Merged PR [#1](https://github.com/suraj-davariya/JavaScript30/pull/1) in [suraj-davariya/JavaScript30](https://github.com/suraj-davariya/JavaScript30)
+2. 💪 Opened PR [#1](https://github.com/suraj-davariya/JavaScript30/pull/1) in [suraj-davariya/JavaScript30](https://github.com/suraj-davariya/JavaScript30)
+3. 🎉 Merged PR [#6](https://github.com/suraj-davariya/suraj-davariya/pull/6) in [suraj-davariya/suraj-davariya](https://github.com/suraj-davariya/suraj-davariya)
+4. 💪 Opened PR [#6](https://github.com/suraj-davariya/suraj-davariya/pull/6) in [suraj-davariya/suraj-davariya](https://github.com/suraj-davariya/suraj-davariya)
+5. 🎉 Merged PR [#5](https://github.com/suraj-davariya/suraj-davariya/pull/5) in [suraj-davariya/suraj-davariya](https://github.com/suraj-davariya/suraj-davariya)
    <!--END_SECTION:activity-->
    </details>
 

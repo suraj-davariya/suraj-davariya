@@ -62,11 +62,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/suraj-davariya/reading-list/pull/1) in [suraj-davariya/reading-list](https://github.com/suraj-davariya/reading-list)
-2. 💪 Opened PR [#1](https://github.com/suraj-davariya/reading-list/pull/1) in [suraj-davariya/reading-list](https://github.com/suraj-davariya/reading-list)
-3. 🗣 Commented on [#25](https://github.com/bamos/reading-list/issues/25) in [bamos/reading-list](https://github.com/bamos/reading-list)
-4. ❌ Closed PR [#25](https://github.com/bamos/reading-list/pull/25) in [bamos/reading-list](https://github.com/bamos/reading-list)
-5. 💪 Opened PR [#25](https://github.com/bamos/reading-list/pull/25) in [bamos/reading-list](https://github.com/bamos/reading-list)
+1. 🎉 Merged PR [#2](https://github.com/suraj-davariya/reading-list/pull/2) in [suraj-davariya/reading-list](https://github.com/suraj-davariya/reading-list)
+2. 💪 Opened PR [#2](https://github.com/suraj-davariya/reading-list/pull/2) in [suraj-davariya/reading-list](https://github.com/suraj-davariya/reading-list)
+3. 🎉 Merged PR [#1](https://github.com/suraj-davariya/reading-list/pull/1) in [suraj-davariya/reading-list](https://github.com/suraj-davariya/reading-list)
+4. 💪 Opened PR [#1](https://github.com/suraj-davariya/reading-list/pull/1) in [suraj-davariya/reading-list](https://github.com/suraj-davariya/reading-list)
+5. 🗣 Commented on [#25](https://github.com/bamos/reading-list/issues/25) in [bamos/reading-list](https://github.com/bamos/reading-list)
    <!--END_SECTION:activity-->
    </details>
 

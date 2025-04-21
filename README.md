@@ -2,11 +2,16 @@
 
 ## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎 ![hi there](https://usefulshortcuts.com/imgs/yahoo-smileys/103.gif).. 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚂𝚞𝚛𝚊𝚓 𝙳𝚊𝚟𝚊𝚛𝚒𝚢𝚊 <img src="http://www.emoticonr.com/design/yahoo/not-worthy.gif" height="25px"/>
 
-<img src="https://raw.githubusercontent.com/suraj-davariya/suraj-davariya/master/images/emergency_cheatsheet.gif" height="100" align="right" alt="in case of fire: 1. git commit; 2. git push; 3. git -tf out">
-<img src="https://usefulshortcuts.com/imgs/yahoo-smileys/4.gif" height="25" align="right">
+<img src="https://usefulshortcuts.com/imgs/yahoo-smileys/4.gif" height="45" align="right">
 
 ![hehe](https://forthebadge.com/images/badges/powered-by-electricity.svg)
 ![❤️](https://forthebadge.com/images/badges/built-with-love.svg)
+
+<p align="center">
+  <a href="https://github.com/suraj-davariya/suraj-davariya/issues/12"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=15&duration=7000&pause=70&color=F79807&multiline=true&width=500&height=112&lines=Hi+Innovator%2C+I+am+Suraj+Davariya..;Let's+build+something+great+together..;Click+here+%26+drop+me+a+hi+in+my+guest+book!" alt="Typing SVG that says Hi Innovator, I am Suraj Davariya. Let us build something great together. Click here and drop me a hi in my guest book!" /></a>
+</p>
+<!-- <p align="center"> (https://github.com/suraj-davariya/suraj-davariya/issues/12) 👈🏼 </p>-->
+<img src="https://raw.githubusercontent.com/suraj-davariya/suraj-davariya/master/images/emergency_cheatsheet.gif" height="100" align="right" alt="in case of fire: 1. git commit; 2. git push; 3. git -tf out">
 
 ### 💻 Frontend Development
 
@@ -56,9 +61,7 @@
 
 <details>
   <summary>𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :books: :notebook:</summary>
-
 ####
-
 
 </details>
 
@@ -78,13 +81,12 @@
   <summary>⚡ 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢</summary>
   <br/>
 
-<!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#6](https://github.com/suraj-davariya/reading-list/pull/6) in [suraj-davariya/reading-list](https://github.com/suraj-davariya/reading-list)
-2. 💪 Opened PR [#6](https://github.com/suraj-davariya/reading-list/pull/6) in [suraj-davariya/reading-list](https://github.com/suraj-davariya/reading-list)
-3. 🎉 Merged PR [#5](https://github.com/suraj-davariya/reading-list/pull/5) in [suraj-davariya/reading-list](https://github.com/suraj-davariya/reading-list)
-4. 💪 Opened PR [#5](https://github.com/suraj-davariya/reading-list/pull/5) in [suraj-davariya/reading-list](https://github.com/suraj-davariya/reading-list)
-5. 🎉 Merged PR [#4](https://github.com/suraj-davariya/reading-list/pull/4) in [suraj-davariya/reading-list](https://github.com/suraj-davariya/reading-list)
+  <!--START_SECTION:activity-->
+  1. 🎉 Merged PR [#6](https://github.com/suraj-davariya/reading-list/pull/6) in [suraj-davariya/reading-list](https://github.com/suraj-davariya/reading-list)
+  2. 💪 Opened PR [#6](https://github.com/suraj-davariya/reading-list/pull/6) in [suraj-davariya/reading-list](https://github.com/suraj-davariya/reading-list)
+  3. 🎉 Merged PR [#5](https://github.com/suraj-davariya/reading-list/pull/5) in [suraj-davariya/reading-list](https://github.com/suraj-davariya/reading-list)
+  4. 💪 Opened PR [#5](https://github.com/suraj-davariya/reading-list/pull/5) in [suraj-davariya/reading-list](https://github.com/suraj-davariya/reading-list)
+  5. 🎉 Merged PR [#4](https://github.com/suraj-davariya/reading-list/pull/4) in [suraj-davariya/reading-list](https://github.com/suraj-davariya/reading-list)
    <!--END_SECTION:activity-->
    </details>
 

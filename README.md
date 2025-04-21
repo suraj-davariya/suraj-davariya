@@ -105,8 +105,11 @@
   <summary>💭 𝚀𝚞𝚘𝚝𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚍𝚊𝚢</summary>
   <br/>
   <p align="center">
-    <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=default&layout=default"/>
+<!--     <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=default&layout=default"/> -->
   </p>
+
+  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in&layout=default&font=Gabrielle&quoteType=random&fontColor=orange) 
+  
 </details>
 
 <p align="center">

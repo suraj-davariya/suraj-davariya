@@ -1,8 +1,6 @@
 <!--### Hi there 👋-->
-
-## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎 ![hi there](https://usefulshortcuts.com/imgs/yahoo-smileys/103.gif).. 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚂𝚞𝚛𝚊𝚓 𝙳𝚊𝚟𝚊𝚛𝚒𝚢𝚊 <img src="http://www.emoticonr.com/design/yahoo/not-worthy.gif" height="25px"/>
-
-<img src="https://usefulshortcuts.com/imgs/yahoo-smileys/4.gif" height="45" align="right">
+<img src="http://www.emoticonr.com/design/yahoo/not-worthy.gif" height="25px"/>
+<img src="https://usefulshortcuts.com/imgs/yahoo-smileys/4.gif" height="45" width="45" align="right">
 
 ![hehe](https://forthebadge.com/images/badges/powered-by-electricity.svg)
 ![❤️](https://forthebadge.com/images/badges/built-with-love.svg)

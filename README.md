@@ -6,7 +6,7 @@
 ![❤️](https://forthebadge.com/images/badges/built-with-love.svg)
 
 <p align="center">
-  <a href="https://github.com/suraj-davariya/suraj-davariya/issues/12"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=15&duration=7000&pause=70&color=F79807&multiline=true&width=500&height=112&lines=Hi+Innovator%2C+I+am+Suraj+Davariya..;Let's+build+something+great+together..;Click+here+%26+drop+me+a+hi+in+my+guest+book!" alt="Typing SVG that says Hi Innovator, I am Suraj Davariya. Let us build something great together. Click here and drop me a hi in my guest book!" /></a>
+  <a href="https://github.com/suraj-davariya/suraj-davariya/issues/12"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=15&duration=7000&pause=70&color=F79807&multiline=true&repeat=false&width=500&height=112&lines=Hi+Innovator%2C+I+am+Suraj+Davariya..;Let's+build+something+great+together..;Click+here+%26+drop+me+a+hi+in+my+guest+book!" alt="Typing SVG that says Hi Innovator, I am Suraj Davariya. Let us build something great together. Click here and drop me a Hi in my guest book!" /></a>
 </p>
 <!-- <p align="center"> (https://github.com/suraj-davariya/suraj-davariya/issues/12) 👈🏼 </p>-->
 <img src="https://raw.githubusercontent.com/suraj-davariya/suraj-davariya/master/images/emergency_cheatsheet.gif" height="100" align="right" alt="in case of fire: 1. git commit; 2. git push; 3. git -tf out">

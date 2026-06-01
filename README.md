@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=1000&color=F79807&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=60&lines=shipping+AI%2FML+platforms+at+cloud+scale+%7C+productionizing+models+since+before+it+was+cool;full-stack+roots+%7C+real-time+data+is+my+love+language+%7C" alt="identity tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=1000&color=F79807&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=60&lines=shipping+AI+platforms+at+cloud+scale+%7C+productionizing+models+since+before+it+was+cool;full-stack+roots+%7C+real-time+data+is+my+love+language..." alt="identity tagline" />
 </p>
 
 <img src="https://raw.githubusercontent.com/suraj-davariya/suraj-davariya/master/images/emergency_cheatsheet.gif" height="100" align="right" alt="in case of fire: 1. git commit; 2. git push; 3. git -tf out">

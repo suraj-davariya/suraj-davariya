@@ -6,7 +6,7 @@
 ![❤️](https://forthebadge.com/images/badges/built-with-love.svg)
 
 <p align="center">
-  <a href="https://github.com/suraj-davariya/suraj-davariya/issues/12"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=15&duration=7000&pause=70&color=F79807&multiline=true&repeat=false&width=500&height=112&lines=Hey+%2C+I+am+Suraj;AI+platform+engineer+%7C+full-stack+builder;Let's+build+something+great+together..;Click+here+%26+drop+me+a+hi+in+my+guest+book!" alt="Typing SVG that says Hey, I am Suraj Let us build something great together. Click here and drop me a Hi in my guest book!" />👈🏼</a>
+  <a href="https://github.com/suraj-davariya/suraj-davariya/issues/12"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=15&duration=3500&pause=800&color=F79807&multiline=false&repeat=true&width=500&height=50&lines=Hey+%2C+I+am+Suraj+%F0%9F%91%8B;AI+platform+engineer+%7C+full-stack+builder;Let%27s+build+something+great+together..;Click+here+%26+drop+me+a+hi+in+my+guest+book+%F0%9F%91%88%F0%9F%8F%BC" alt="Typing SVG" /></a>
 </p>
 <!-- <p align="center"> (https://github.com/suraj-davariya/suraj-davariya/issues/12) 👈🏼 </p>-->
 
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=1000&color=F79807&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=60&lines=shipping+AI%2FML+platforms+at+cloud+scale+%7C+productionizing+models+since+before+it+was+cool;full-stack+roots+%7C+real-time+data+is+my+love+language+%7C+MS+CS+%7C+IEEE+Member" alt="identity tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=1000&color=F79807&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=60&lines=shipping+AI%2FML+platforms+at+cloud+scale+%7C+productionizing+models+since+before+it+was+cool;full-stack+roots+%7C+real-time+data+is+my+love+language+%7C" alt="identity tagline" />
 </p>
 
 <img src="https://raw.githubusercontent.com/suraj-davariya/suraj-davariya/master/images/emergency_cheatsheet.gif" height="100" align="right" alt="in case of fire: 1. git commit; 2. git push; 3. git -tf out">
@@ -110,13 +110,10 @@
 ![TeaLeaf](https://img.shields.io/badge/-TeaLeaf-00833E?style=for-the-badge&logoColor=white)
 
 
-### 📜 Certifications & Memberships
+### 📜 Certifications
 
 ![AWS Certified Developer – Associate](https://img.shields.io/badge/-AWS_Developer_Associate-FF9900?logo=amazonwebservices&style=for-the-badge&logoColor=white)
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/-AWS_Cloud_Practitioner-FF9900?logo=amazonwebservices&style=for-the-badge&logoColor=white)
-![IEEE Member](https://img.shields.io/badge/-IEEE_Member-00629B?logo=ieee&style=for-the-badge&logoColor=white)
-![MS Computer Science](https://img.shields.io/badge/-MS_Computer_Science-4B275F?logo=academia&style=for-the-badge&logoColor=white)
-
 
 <img src="https://raw.githubusercontent.com/suraj-davariya/suraj-davariya/master/images/lockdown_life.gif" height="100" align="right" alt="life in pendamic">
 
@@ -160,11 +157,11 @@
   <br/>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/suraj-davariya/dads-encyclopedia/pull/5) in [suraj-davariya/dads-encyclopedia](https://github.com/suraj-davariya/dads-encyclopedia)
-2. 💪 Opened PR [#5](https://github.com/suraj-davariya/dads-encyclopedia/pull/5) in [suraj-davariya/dads-encyclopedia](https://github.com/suraj-davariya/dads-encyclopedia)
-3. ℹ️ Assigned PR [#5](https://github.com/suraj-davariya/dads-encyclopedia/pull/5) in [suraj-davariya/dads-encyclopedia](https://github.com/suraj-davariya/dads-encyclopedia)
-4. 💪 Opened PR [#1](https://github.com/suraj-davariya/remodeling/pull/1) in [suraj-davariya/remodeling](https://github.com/suraj-davariya/remodeling)
-5. ℹ️ Assigned PR [#1](https://github.com/suraj-davariya/remodeling/pull/1) in [suraj-davariya/remodeling](https://github.com/suraj-davariya/remodeling)
+1. 🎉 Merged PR [#3](https://github.com/suraj-davariya/yogi-ninja/pull/3) in [suraj-davariya/yogi-ninja](https://github.com/suraj-davariya/yogi-ninja)
+2. ℹ️ Assigned PR [#3](https://github.com/suraj-davariya/yogi-ninja/pull/3) in [suraj-davariya/yogi-ninja](https://github.com/suraj-davariya/yogi-ninja)
+3. 💪 Opened PR [#3](https://github.com/suraj-davariya/yogi-ninja/pull/3) in [suraj-davariya/yogi-ninja](https://github.com/suraj-davariya/yogi-ninja)
+4. 🎉 Merged PR [#2](https://github.com/suraj-davariya/yogi-ninja/pull/2) in [suraj-davariya/yogi-ninja](https://github.com/suraj-davariya/yogi-ninja)
+5. 💪 Opened PR [#2](https://github.com/suraj-davariya/yogi-ninja/pull/2) in [suraj-davariya/yogi-ninja](https://github.com/suraj-davariya/yogi-ninja)
    <!--END_SECTION:activity-->
 </details>
 

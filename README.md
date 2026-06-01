@@ -157,11 +157,11 @@
   <br/>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/suraj-davariya/yogi-ninja/pull/3) in [suraj-davariya/yogi-ninja](https://github.com/suraj-davariya/yogi-ninja)
-2. ℹ️ Assigned PR [#3](https://github.com/suraj-davariya/yogi-ninja/pull/3) in [suraj-davariya/yogi-ninja](https://github.com/suraj-davariya/yogi-ninja)
-3. 💪 Opened PR [#3](https://github.com/suraj-davariya/yogi-ninja/pull/3) in [suraj-davariya/yogi-ninja](https://github.com/suraj-davariya/yogi-ninja)
-4. 🎉 Merged PR [#2](https://github.com/suraj-davariya/yogi-ninja/pull/2) in [suraj-davariya/yogi-ninja](https://github.com/suraj-davariya/yogi-ninja)
-5. 💪 Opened PR [#2](https://github.com/suraj-davariya/yogi-ninja/pull/2) in [suraj-davariya/yogi-ninja](https://github.com/suraj-davariya/yogi-ninja)
+1. 🎉 Merged PR [#20](https://github.com/suraj-davariya/suraj-davariya/pull/20) in [suraj-davariya/suraj-davariya](https://github.com/suraj-davariya/suraj-davariya)
+2. 💪 Opened PR [#20](https://github.com/suraj-davariya/suraj-davariya/pull/20) in [suraj-davariya/suraj-davariya](https://github.com/suraj-davariya/suraj-davariya)
+3. ℹ️ Assigned PR [#20](https://github.com/suraj-davariya/suraj-davariya/pull/20) in [suraj-davariya/suraj-davariya](https://github.com/suraj-davariya/suraj-davariya)
+4. 🎉 Merged PR [#19](https://github.com/suraj-davariya/suraj-davariya/pull/19) in [suraj-davariya/suraj-davariya](https://github.com/suraj-davariya/suraj-davariya)
+5. 💪 Opened PR [#19](https://github.com/suraj-davariya/suraj-davariya/pull/19) in [suraj-davariya/suraj-davariya](https://github.com/suraj-davariya/suraj-davariya)
    <!--END_SECTION:activity-->
 </details>
 

@@ -157,11 +157,11 @@
   <br/>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/suraj-davariya/ai-job-search/pull/1) in [suraj-davariya/ai-job-search](https://github.com/suraj-davariya/ai-job-search)
-2. ℹ️ Assigned PR [#1](https://github.com/suraj-davariya/ai-job-search/pull/1) in [suraj-davariya/ai-job-search](https://github.com/suraj-davariya/ai-job-search)
-3. 🎉 Merged PR [#20](https://github.com/suraj-davariya/suraj-davariya/pull/20) in [suraj-davariya/suraj-davariya](https://github.com/suraj-davariya/suraj-davariya)
-4. 💪 Opened PR [#20](https://github.com/suraj-davariya/suraj-davariya/pull/20) in [suraj-davariya/suraj-davariya](https://github.com/suraj-davariya/suraj-davariya)
-5. ℹ️ Assigned PR [#20](https://github.com/suraj-davariya/suraj-davariya/pull/20) in [suraj-davariya/suraj-davariya](https://github.com/suraj-davariya/suraj-davariya)
+1. ❌ Closed PR [#1](https://github.com/suraj-davariya/ai-job-search/pull/1) in [suraj-davariya/ai-job-search](https://github.com/suraj-davariya/ai-job-search)
+2. 💪 Opened PR [#1](https://github.com/suraj-davariya/ai-job-search/pull/1) in [suraj-davariya/ai-job-search](https://github.com/suraj-davariya/ai-job-search)
+3. ℹ️ Assigned PR [#1](https://github.com/suraj-davariya/ai-job-search/pull/1) in [suraj-davariya/ai-job-search](https://github.com/suraj-davariya/ai-job-search)
+4. 🎉 Merged PR [#20](https://github.com/suraj-davariya/suraj-davariya/pull/20) in [suraj-davariya/suraj-davariya](https://github.com/suraj-davariya/suraj-davariya)
+5. 💪 Opened PR [#20](https://github.com/suraj-davariya/suraj-davariya/pull/20) in [suraj-davariya/suraj-davariya](https://github.com/suraj-davariya/suraj-davariya)
    <!--END_SECTION:activity-->
 </details>
 
